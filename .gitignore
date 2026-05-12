@@ -1,0 +1,4 @@
+*.o
+apc
+a.out
+.vscode/
